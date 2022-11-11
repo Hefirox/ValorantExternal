@@ -1,9 +1,8 @@
 # PxwnLoader External Valorant
 
-Status: Undetected (05/11/22)
+Status: Undetected (12/11/22)
 
-
-Download : https://anonfiles.com/S8Iba7G3y6
+Download : https://gofile.io/d/a1nQQ2
 
 
 FEATURE
